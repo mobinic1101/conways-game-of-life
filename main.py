@@ -123,7 +123,7 @@ def main():
             clicked_cell = board.find_cells_by_coordinate(*mouse_pos)
 
             if clicked_cell is not None:
-                print(f"cell count: {get_cell_neighbors(clicked_cell, board)[1]}")
+                # print(f"cell count: {get_cell_neighbors(clicked_cell, board)[1]}")
                 if buttons[0]: # left click
                     clicked_cell.revive()
                 elif buttons[2]: # right click

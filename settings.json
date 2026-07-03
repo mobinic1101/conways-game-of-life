@@ -7,7 +7,7 @@
     "board_grid_lines_color": "black",
     "board_grid_lines_thickness": 1,
     "cell_per_row": 30,
-    "cell_color_dead": "black",
+    "cell_color_dead": "grey8",
     "cell_color_alive": "yellow",
     "update_speed": 500
 }
