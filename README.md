@@ -1,10 +1,10 @@
 ## how to run
 1. clone the repository
-`git clone https://github.com/mobinic1101/...`
+`git clone https://github.com/mobinic1101/conways-game-of-life.git`
 2. cd into the game directory
-`cd game_of_life`
-3. install requirements
-`pip install -r requirements.txt`
+`cd conways-game-of-life`
+3. install pygame
+`pip install pygame`
 4. run the main.py file
 `python main.py`
 
