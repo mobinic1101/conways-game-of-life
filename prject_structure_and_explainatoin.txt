@@ -1,0 +1,10 @@
+classes:
+Board:
+    __init__(self):
+        size: tuple[int, int] # width and hight
+        
+
+
+
+files:
+    game_elements.py:
