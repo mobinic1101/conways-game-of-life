@@ -25,7 +25,9 @@ use the controls listed below, then pause the simulation and clear the board, th
 
 ## change game settings
 settings.json is the file for game settings.
-increase/decrease `update_speed` to increasae or decrease the simulation speed, other settings are self explanatory.
+increase/decrease `update_speed` to increasae or decrease the simulation speed.
+to see full list of available colors, checkout `pygame.colordict` module. 
+other settings are self explanatory.
 
 <hr/>
 contributions are welcome!
