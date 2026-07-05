@@ -11,7 +11,7 @@
 4. run the main.py file
 `python main.py`
 
-### use the controls listed below then pause the simulation and clear the board, then draw a symmetrical shape and then hit space...
+use the controls listed below, then pause the simulation and clear the board, then draw a symmetrical shape and then hit space...
 
 ## controls
 - **space**      -> pause/resume the simulation.
@@ -27,4 +27,5 @@
 settings.json is the file for game settings.
 increase/decrease `update_speed` to increasae or decrease the simulation speed, other settings are self explanatory.
 
-
+<hr/>
+contributions are welcome!
