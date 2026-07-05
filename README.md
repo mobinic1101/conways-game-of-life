@@ -11,11 +11,13 @@
 4. run the main.py file
 `python main.py`
 
+### use the controls listed below then pause the simulation and clear the board, then draw a symmetrical shape and then hit space...
+
 ## controls
 - **space**      -> pause/resume the simulation.
-- **R**          -> resets the board with ramdom cells.
-- **C**          -> kills all the cells.
-- **A**          -> revives all the cells.
+- **R**          -> resets the board with random cells.
+- **C**          -> clears the board (kills all the cells).
+- **A**          -> fills the board (revives all the cells).
 - **L**          -> shows/hides grid lines.
 - **LeftClick**  -> press and hold to keep reviving cells under the cursor.
 - **RightClick** -> press and hold to keep killing cells under the cursor.
@@ -23,6 +25,6 @@
 
 ## change game settings
 settings.json is the file for game settings.
-increase/decrease `update_speed` to increasae or decrease the simulation speed.
+increase/decrease `update_speed` to increasae or decrease the simulation speed, other settings are self explanatory.
 
 
