@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/94c767d4-f2dd-4b9d-b60a-9d5ace1bf0f7
-
 ## how to run
 1. clone the repository
 `git clone https://github.com/mobinic1101/conways-game-of-life.git`
