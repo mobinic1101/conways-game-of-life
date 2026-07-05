@@ -1,3 +1,4 @@
+<img width="480" height="480" alt="gol" src="https://github.com/user-attachments/assets/fed38150-635a-431a-9e00-fa694806ffaa" />
 ## how to run
 1. clone the repository
 `git clone https://github.com/mobinic1101/conways-game-of-life.git`
